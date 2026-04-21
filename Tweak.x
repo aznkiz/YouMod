@@ -360,7 +360,7 @@
 }
 %end
 */
-/*
+
 %hook YTPivotBarView
 - (void)setRenderer:(YTIPivotBarRenderer *)renderer {
     NSMutableArray <YTIPivotBarSupportedRenderers *> *items = [renderer itemsArray];
@@ -372,19 +372,20 @@
     for (NSUInteger i = 0; i < items.count; i++) {
         YTIPivotBarSupportedRenderers *item = items[i];
         NSString *pID = [[item pivotBarItemRenderer] pivotIdentifier];
+        NSString *pID2 = [[item pivotBarIconOnlyItemRenderer] pivotIdentifier];
 
         // If the ID matches any of these, mark it for removal
-        if ([pID isEqualToString:@"FEshorts"]) {
-            [indicesToRemove addIndex:i];
-        }
-        if ([pID isEqualToString:@"FEuploads"]) {
+        //if ([pID isEqualToString:@"FEshorts"]) {
+        //    [indicesToRemove addIndex:i];
+        //}
+        if ([pID2 isEqualToString:@"FEuploads"]) {
             [indicesToRemove addIndex:i];
             // pID.hidden = YES;
             // [self removeFromSuperview];
         }
-        // if ([pID isEqualToString:@"FEsubscriptions"]) {
-        //     [indicesToRemove addIndex:i];
-        // }
+        if ([pID isEqualToString:@"FEsubscriptions"]) {
+            [indicesToRemove addIndex:i];
+        }
         // if ([pID isEqualToString:@"FEwhat_to_watch"] && HideHome()) {
         //     [indicesToRemove addIndex:i];
         // }
@@ -396,8 +397,8 @@
     %orig(renderer);
 }
 %end
-*/
 
+/*
 // Remove Tabs
 %hook YTPivotBarView
 - (void)setRenderer:(YTIPivotBarRenderer *)renderer {
@@ -429,6 +430,7 @@
     %orig(renderer);
 }
 %end
+*/
 
 // Hide Tab Bar Indicators
 %hook YTPivotBarIndicatorView
