@@ -1,0 +1,36 @@
+"RESTART_BAR" = "Los cambios en estas configuraciones requieren reiniciar la aplicación para que surtan efecto.";
+"ENABLED" = "Activar tweak";
+"ENABLED_DESC" = "Al activar esta opción se activará el tweak.";
+
+"ALLOWS_BACKGROUND_PLAYBACK" = "Permitir reproducción en segundo plano";
+"ALLOWS_BACKGROUND_PLAYBACK_DESC" = "Permite que YouTube reproduzca videos en segundo plano.";
+
+"VIDEO_ADS" = "Eliminar anuncios de video";
+"VIDEO_ADS_DESC" = "Elimina anuncios de video incluyendo Shorts.";
+
+"ENABLES_PIP" = "Activar PiP";
+"ENABLES_PIP_DESC" = "Activa Picture-in-Picture (PiP) para reproducir videos fuera de la app de YouTube.";
+
+"DISABLES_SHORTS_PIP" = "Desactivar PiP de Shorts";
+"DISABLES_SHORTS_PIP_DESC" = "Intenta desactivar el PiP de Shorts. Puede que no se desactive completamente.";
+
+"BLOCK_UPGRADE_DIALOGS" = "Bloquear diálogos de actualización";
+"BLOCK_UPGRADE_DIALOGS_DESC" = "Bloquea los diálogos de YouTube que solicitan actualizar la aplicación.";
+
+"ARE_YOU_THERE_DIALOG" = "Ocultar diálogo '¿Sigues ahí?'";
+"ARE_YOU_THERE_DIALOG_DESC" = "Oculta el diálogo que aparece cuando estás inactivo durante mucho tiempo.";
+
+"HIDE_ADS_BADGES" = "Ocultar insignias de anuncios";
+"HIDE_ADS_BADGES_DESC" = "Oculta insignias de anuncios, promociones de YouTube Premium, intenta ocultar funciones de IA y más.";
+
+"HIDE_YOUTUBE_EDU" = "Ocultar introducciones de YouTube (Experimental)";
+"HIDE_YOUTUBE_EDU_DESC" = "Intenta ocultar introducciones cuando reinstalas la app o usas funciones por primera vez.";
+
+"FIXES_SLOW_MINIPLAYER" = "Arreglar miniplayer lento";
+"FIXES_SLOW_MINIPLAYER_DESC" = "Arregla la expansión lenta del miniplayer. Solo funciona en versiones antiguas.";
+
+"DISABLES_NEW_MINIPLAYER" = "Desactivar nuevo miniplayer";
+"DISABLES_NEW_MINIPLAYER_DESC" = "Usa el miniplayer antiguo en lugar del nuevo. Solo funciona en versiones antiguas.";
+
+"SNACK_BAR" = "Desactivar snackbar";
+"SNACK_BAR_DESC" = "Desactiva el snackbar al presionar algunos botones o realizar acciones.";

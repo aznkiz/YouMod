@@ -1,0 +1,36 @@
+"RESTART_BAR" = "يتطلب تطبيق هذه الإعدادات إعادة تشغيل التطبيق حتى تصبح سارية.";
+"ENABLED" = "تفعيل التويك";
+"ENABLED_DESC" = "عند تشغيل هذا الخيار سيتم تفعيل التويك.";
+
+"ALLOWS_BACKGROUND_PLAYBACK" = "السماح بالتشغيل في الخلفية";
+"ALLOWS_BACKGROUND_PLAYBACK_DESC" = "يسمح لـ YouTube بتشغيل الفيديوهات في الخلفية.";
+
+"VIDEO_ADS" = "إزالة إعلانات الفيديو";
+"VIDEO_ADS_DESC" = "يزيل إعلانات الفيديو بما في ذلك Shorts.";
+
+"ENABLES_PIP" = "تفعيل PiP";
+"ENABLES_PIP_DESC" = "تفعيل وضع صورة داخل صورة (PiP) لتشغيل الفيديو خارج تطبيق YouTube.";
+
+"DISABLES_SHORTS_PIP" = "تعطيل PiP لميزة Shorts";
+"DISABLES_SHORTS_PIP_DESC" = "يحاول تعطيل PiP لميزة Shorts، قد لا يتم تعطيله بالكامل.";
+
+"BLOCK_UPGRADE_DIALOGS" = "حظر نوافذ الترقية";
+"BLOCK_UPGRADE_DIALOGS_DESC" = "يحظر نوافذ YouTube التي تطلب منك ترقية التطبيق.";
+
+"ARE_YOU_THERE_DIALOG" = "إخفاء نافذة 'هل ما زلت هنا؟'";
+"ARE_YOU_THERE_DIALOG_DESC" = "إخفاء النافذة التي تظهر عند عدم النشاط لفترة طويلة.";
+
+"HIDE_ADS_BADGES" = "إخفاء شارات الإعلانات";
+"HIDE_ADS_BADGES_DESC" = "إخفاء شارات الإعلانات وعروض YouTube Premium ومحاولة إخفاء ميزات الذكاء الاصطناعي والمزيد.";
+
+"HIDE_YOUTUBE_EDU" = "إخفاء تعليمات YouTube (تجريبي)";
+"HIDE_YOUTUBE_EDU_DESC" = "يحاول إخفاء تعليمات YouTube عند إعادة تثبيت التطبيق أو استخدام الميزات لأول مرة.";
+
+"FIXES_SLOW_MINIPLAYER" = "إصلاح بطء المشغل المصغر";
+"FIXES_SLOW_MINIPLAYER_DESC" = "يصلح بطء توسيع المشغل المصغر. يعمل فقط على إصدارات YouTube القديمة.";
+
+"DISABLES_NEW_MINIPLAYER" = "تعطيل المشغل المصغر الجديد";
+"DISABLES_NEW_MINIPLAYER_DESC" = "استخدام المشغل المصغر القديم بدلاً من الجديد. يعمل فقط على إصدارات YouTube القديمة.";
+
+"SNACK_BAR" = "تعطيل شريط الإشعارات";
+"SNACK_BAR_DESC" = "يعطل شريط الإشعارات عند الضغط على بعض الأزرار أو تنفيذ بعض الإجراءات في التطبيق.";

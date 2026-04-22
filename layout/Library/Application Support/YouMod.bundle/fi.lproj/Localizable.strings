@@ -1,0 +1,36 @@
+"RESTART_BAR" = "Näiden asetusten muutokset vaativat sovelluksen uudelleenkäynnistyksen tullakseen voimaan.";
+"ENABLED" = "Ota tweak käyttöön";
+"ENABLED_DESC" = "Kun tämä asetus otetaan käyttöön, tweak aktivoituu.";
+
+"ALLOWS_BACKGROUND_PLAYBACK" = "Salli taustatoisto";
+"ALLOWS_BACKGROUND_PLAYBACK_DESC" = "Sallii YouTuben toistaa videoita taustalla.";
+
+"VIDEO_ADS" = "Poista videomainokset";
+"VIDEO_ADS_DESC" = "Poistaa videomainokset, mukaan lukien Shorts.";
+
+"ENABLES_PIP" = "Ota PiP käyttöön";
+"ENABLES_PIP_DESC" = "Ottaa käyttöön Picture-in-Picture (PiP) -tilan videoiden toistamiseen YouTube-sovelluksen ulkopuolella.";
+
+"DISABLES_SHORTS_PIP" = "Poista Shorts PiP käytöstä";
+"DISABLES_SHORTS_PIP_DESC" = "Yrittää poistaa Shorts PiP -toiminnon käytöstä. Tämä ei välttämättä toimi täysin.";
+
+"BLOCK_UPGRADE_DIALOGS" = "Estä päivitysikkunat";
+"BLOCK_UPGRADE_DIALOGS_DESC" = "Estää YouTuben ikkunat, jotka pyytävät päivittämään sovelluksen.";
+
+"ARE_YOU_THERE_DIALOG" = "Piilota 'Oletko vielä siellä?' -ikkuna";
+"ARE_YOU_THERE_DIALOG_DESC" = "Piilottaa ikkunan, joka ilmestyy pitkän käyttämättömyyden jälkeen.";
+
+"HIDE_ADS_BADGES" = "Piilota mainosmerkit";
+"HIDE_ADS_BADGES_DESC" = "Piilottaa mainosmerkit, YouTube Premium -kampanjat, yrittää piilottaa AI-ominaisuuksia ja muuta.";
+
+"HIDE_YOUTUBE_EDU" = "Piilota YouTube-opastukset (Kokeellinen)";
+"HIDE_YOUTUBE_EDU_DESC" = "Yrittää piilottaa YouTube-opastukset, kun sovellus asennetaan uudelleen tai ominaisuuksia käytetään ensimmäistä kertaa.";
+
+"FIXES_SLOW_MINIPLAYER" = "Korjaa hidas miniplayer";
+"FIXES_SLOW_MINIPLAYER_DESC" = "Korjaa miniplayerin hitaan laajentumisen. Toimii vain vanhemmissa YouTube-versioissa.";
+
+"DISABLES_NEW_MINIPLAYER" = "Poista uusi miniplayer käytöstä";
+"DISABLES_NEW_MINIPLAYER_DESC" = "Käyttää vanhaa miniplayeria uuden sijaan. Toimii vain vanhemmissa YouTube-versioissa.";
+
+"SNACK_BAR" = "Poista snackbar käytöstä";
+"SNACK_BAR_DESC" = "Poistaa snackbarin käytöstä painettaessa painikkeita tai suoritettaessa toimintoja sovelluksessa.";

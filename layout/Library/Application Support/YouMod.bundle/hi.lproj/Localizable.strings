@@ -1,0 +1,36 @@
+"RESTART_BAR" = "इन सेटिंग्स में बदलाव प्रभावी होने के लिए ऐप को पुनः प्रारंभ करना आवश्यक है।";
+"ENABLED" = "ट्वीक सक्षम करें";
+"ENABLED_DESC" = "इस विकल्प को चालू करने से ट्वीक सक्रिय हो जाएगा.";
+
+"ALLOWS_BACKGROUND_PLAYBACK" = "बैकग्राउंड प्लेबैक की अनुमति दें";
+"ALLOWS_BACKGROUND_PLAYBACK_DESC" = "YouTube को बैकग्राउंड में वीडियो चलाने की अनुमति देता है.";
+
+"VIDEO_ADS" = "वीडियो विज्ञापन हटाएं";
+"VIDEO_ADS_DESC" = "Shorts सहित वीडियो विज्ञापनों को हटाता है.";
+
+"ENABLES_PIP" = "PiP सक्षम करें";
+"ENABLES_PIP_DESC" = "YouTube ऐप के बाहर वीडियो चलाने के लिए Picture-in-Picture सक्षम करता है.";
+
+"DISABLES_SHORTS_PIP" = "Shorts PiP अक्षम करें";
+"DISABLES_SHORTS_PIP_DESC" = "Shorts PiP को अक्षम करने का प्रयास करता है, यह पूरी तरह अक्षम न भी हो सके.";
+
+"BLOCK_UPGRADE_DIALOGS" = "अपग्रेड डायलॉग ब्लॉक करें";
+"BLOCK_UPGRADE_DIALOGS_DESC" = "YouTube के उन डायलॉग को ब्लॉक करता है जो ऐप अपडेट करने को कहते हैं.";
+
+"ARE_YOU_THERE_DIALOG" = "'क्या आप अभी भी यहाँ हैं?' डायलॉग छुपाएँ";
+"ARE_YOU_THERE_DIALOG_DESC" = "लंबे समय तक निष्क्रिय रहने पर आने वाले डायलॉग को छुपाता है.";
+
+"HIDE_ADS_BADGES" = "विज्ञापन बैज छुपाएँ";
+"HIDE_ADS_BADGES_DESC" = "विज्ञापन बैज, YouTube Premium प्रमोशन और AI चीज़ों को छुपाने की कोशिश करता है.";
+
+"HIDE_YOUTUBE_EDU" = "YouTube शिक्षण संकेत छुपाएँ (प्रायोगिक)";
+"HIDE_YOUTUBE_EDU_DESC" = "ऐप दोबारा इंस्टॉल करने या पहली बार उपयोग पर आने वाले शिक्षण संकेत छुपाने की कोशिश करता है.";
+
+"FIXES_SLOW_MINIPLAYER" = "धीमे मिनीप्लेयर को ठीक करें";
+"FIXES_SLOW_MINIPLAYER_DESC" = "मिनीप्लेयर के धीमे विस्तार को ठीक करता है। केवल पुराने संस्करणों में काम करता है.";
+
+"DISABLES_NEW_MINIPLAYER" = "नया मिनीप्लेयर अक्षम करें";
+"DISABLES_NEW_MINIPLAYER_DESC" = "नए की जगह पुराना मिनीप्लेयर उपयोग करता है। केवल पुराने संस्करणों में काम करता है.";
+
+"SNACK_BAR" = "स्नैकबार अक्षम करें";
+"SNACK_BAR_DESC" = "ऐप में बटन दबाने या कार्य करने पर स्नैकबार को अक्षम करता है.";

@@ -1,0 +1,36 @@
+"RESTART_BAR" = "ต้องรีสตาร์ทแอปเพื่อปรับใช้การเปลี่ยนแปลงการตั้งค่าเหล่านี้";
+"ENABLED" = "เปิดใช้งานทวีค";
+"ENABLED_DESC" = "การเปิดตัวเลือกนี้จะเป็นการเปิดใช้งานทวีค";
+
+"ALLOWS_BACKGROUND_PLAYBACK" = "อนุญาตให้เล่นเบื้องหลัง";
+"ALLOWS_BACKGROUND_PLAYBACK_DESC" = "อนุญาตให้ YouTube เล่นวิดีโอในเบื้องหลังได้";
+
+"ENABLES_PIP" = "เปิดใช้งาน PiP";
+"ENABLES_PIP_DESC" = "เปิดใช้งานโหมด PiP (การเล่นภาพซ้อนภาพ) เพื่อเล่นวิดีโอนอกแอป YouTube";
+
+"VIDEO_ADS" = "ลบโฆษณาวิดีโอ";
+"VIDEO_ADS_DESC" = "ลบโฆษณาวิดีโอ รวมถึง Shorts ด้วย";
+
+"DISABLES_SHORTS_PIP" = "ปิดใช้งาน PiP ของ Shorts";
+"DISABLES_SHORTS_PIP_DESC" = "พยายามปิดใช้งาน PiP สำหรับ Shorts อาจไม่สามารถปิดได้ 100%";
+
+"BLOCK_UPGRADE_DIALOGS" = "บล็อกหน้าต่างให้อัปเดต";
+"BLOCK_UPGRADE_DIALOGS_DESC" = "บล็อกหน้าต่างแจ้งเตือนของ YouTube ที่ให้อัปเดตแอป";
+
+"ARE_YOU_THERE_DIALOG" = "ซ่อนหน้าต่าง 'คุณยังอยู่ไหม?'";
+"ARE_YOU_THERE_DIALOG_DESC" = "ซ่อนหน้าต่างนี้เมื่อคุณไม่ได้โต้ตอบกับแอปเมื่อเล่นวิดีโออยู่เป็นระยะเวลานาน";
+
+"HIDE_ADS_BADGES" = "ซ่อนหน้าต่างและป้ายโฆษณา";
+"HIDE_ADS_BADGES_DESC" = "ซ่อนหน้าต่างและป้ายโฆษณา โปรโมชั่น YouTube Premium พยายามซ่อนฟีเจอร์ AI และองค์ประกอบอื่น ๆ";
+
+"HIDE_YOUTUBE_EDU" = "ซ่อนคำแนะนำของ YouTube (ทดลอง)";
+"HIDE_YOUTUBE_EDU_DESC" = "ซ่อนคำแนะนำหลังจากติดตั้งแอปใหม่หรือใช้งานแอปหรือฟีเจอร์ต่าง ๆ เป็นครั้งแรก";
+
+"FIXES_SLOW_MINIPLAYER" = "แก้ปัญหา Miniplayer ช้า";
+"FIXES_SLOW_MINIPLAYER_DESC" = "แก้ปัญหา Miniplayer ขยายวิดีโอช้า ฟีเจอร์นี้ใช้ได้เฉพาะ YouTube เวอร์ชันเก่า";
+
+"DISABLES_NEW_MINIPLAYER" = "ปิดใช้งาน Miniplayer แบบใหม่";
+"DISABLES_NEW_MINIPLAYER_DESC" = "ใช้ Miniplayer แบบเก่าแทนรูปแบบใหม่ ฟีเจอร์นี้ใช้ได้เฉพาะ YouTube เวอร์ชันเก่า";
+
+"SNACK_BAR" = "ปิดใช้งาน Snack bar";
+"SNACK_BAR_DESC" = "ปิดใช้งาน Snack bar เวลาที่แตะปุ่มหรือทำอะไรในแอป";

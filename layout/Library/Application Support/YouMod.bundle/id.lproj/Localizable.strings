@@ -1,0 +1,36 @@
+"RESTART_BAR" = "Perubahan pada pengaturan ini memerlukan restart aplikasi agar berlaku.";
+"ENABLED" = "Aktifkan tweak";
+"ENABLED_DESC" = "Mengaktifkan opsi ini akan mengaktifkan tweak.";
+
+"ALLOWS_BACKGROUND_PLAYBACK" = "Izinkan pemutaran latar belakang";
+"ALLOWS_BACKGROUND_PLAYBACK_DESC" = "Memungkinkan YouTube memutar video di latar belakang.";
+
+"VIDEO_ADS" = "Hapus iklan video";
+"VIDEO_ADS_DESC" = "Menghapus iklan video termasuk Shorts.";
+
+"ENABLES_PIP" = "Aktifkan PiP";
+"ENABLES_PIP_DESC" = "Mengaktifkan Picture-in-Picture (PiP) untuk memutar video di luar aplikasi YouTube.";
+
+"DISABLES_SHORTS_PIP" = "Nonaktifkan PiP Shorts";
+"DISABLES_SHORTS_PIP_DESC" = "Mencoba menonaktifkan PiP Shorts, mungkin tidak sepenuhnya berhasil.";
+
+"BLOCK_UPGRADE_DIALOGS" = "Blokir dialog pembaruan";
+"BLOCK_UPGRADE_DIALOGS_DESC" = "Memblokir dialog YouTube yang meminta Anda memperbarui aplikasi.";
+
+"ARE_YOU_THERE_DIALOG" = "Sembunyikan dialog 'Apakah Anda masih di sana?'";
+"ARE_YOU_THERE_DIALOG_DESC" = "Menyembunyikan dialog yang muncul setelah tidak aktif terlalu lama.";
+
+"HIDE_ADS_BADGES" = "Sembunyikan badge iklan";
+"HIDE_ADS_BADGES_DESC" = "Menyembunyikan badge iklan, promosi YouTube Premium, mencoba menyembunyikan fitur AI, dan lainnya.";
+
+"HIDE_YOUTUBE_EDU" = "Sembunyikan edukasi YouTube (Eksperimental)";
+"HIDE_YOUTUBE_EDU_DESC" = "Mencoba menyembunyikan edukasi YouTube saat menginstal ulang aplikasi atau menggunakan fitur pertama kali.";
+
+"FIXES_SLOW_MINIPLAYER" = "Perbaiki miniplayer lambat";
+"FIXES_SLOW_MINIPLAYER_DESC" = "Memperbaiki perluasan miniplayer yang lambat. Hanya berfungsi di versi YouTube lama.";
+
+"DISABLES_NEW_MINIPLAYER" = "Nonaktifkan miniplayer baru";
+"DISABLES_NEW_MINIPLAYER_DESC" = "Menggunakan miniplayer gaya lama вместо yang baru. Hanya berfungsi di versi YouTube lama.";
+
+"SNACK_BAR" = "Nonaktifkan snackbar";
+"SNACK_BAR_DESC" = "Menonaktifkan snackbar saat menekan tombol atau melakukan tindakan di aplikasi.";

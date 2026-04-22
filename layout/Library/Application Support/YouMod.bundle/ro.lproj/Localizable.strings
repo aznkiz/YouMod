@@ -1,0 +1,36 @@
+"RESTART_BAR" = "Orice modificare a acestor setări necesită repornirea aplicației pentru a avea efect.";
+"ENABLED" = "Activează tweak-ul";
+"ENABLED_DESC" = "Activarea acestei opțiuni va activa tweak-ul.";
+
+"ALLOWS_BACKGROUND_PLAYBACK" = "Permite redarea în fundal";
+"ALLOWS_BACKGROUND_PLAYBACK_DESC" = "Permite YouTube să redea videoclipuri în fundal.";
+
+"VIDEO_ADS" = "Elimină reclamele video";
+"VIDEO_ADS_DESC" = "Elimină reclamele video, inclusiv Shorts.";
+
+"ENABLES_PIP" = "Activează PiP";
+"ENABLES_PIP_DESC" = "Activează Picture-in-Picture (PiP) pentru a reda videoclipuri în afara aplicației YouTube.";
+
+"DISABLES_SHORTS_PIP" = "Dezactivează PiP pentru Shorts";
+"DISABLES_SHORTS_PIP_DESC" = "Încearcă să dezactiveze PiP pentru Shorts, este posibil să nu funcționeze complet.";
+
+"BLOCK_UPGRADE_DIALOGS" = "Blochează dialogurile de actualizare";
+"BLOCK_UPGRADE_DIALOGS_DESC" = "Blochează dialogurile YouTube care solicită actualizarea aplicației.";
+
+"ARE_YOU_THERE_DIALOG" = "Ascunde dialogul „Mai ești acolo?”";
+"ARE_YOU_THERE_DIALOG_DESC" = "Ascunde dialogul când ești inactiv prea mult timp.";
+
+"HIDE_ADS_BADGES" = "Ascunde insignele de reclame";
+"HIDE_ADS_BADGES_DESC" = "Ascunde insignele de reclame, promoțiile YouTube Premium, încearcă să ascundă elementele AI și multe altele.";
+
+"HIDE_YOUTUBE_EDU" = "Ascunde ghidurile YouTube (Experimental)";
+"HIDE_YOUTUBE_EDU_DESC" = "Încearcă să ascundă ghidurile YouTube la reinstalarea aplicației sau la prima utilizare.";
+
+"FIXES_SLOW_MINIPLAYER" = "Remediază miniplayerul lent";
+"FIXES_SLOW_MINIPLAYER_DESC" = "Remediază extinderea lentă a miniplayerului. Funcționează doar pe versiuni mai vechi.";
+
+"DISABLES_NEW_MINIPLAYER" = "Dezactivează noul miniplayer";
+"DISABLES_NEW_MINIPLAYER_DESC" = "Folosește miniplayerul vechi în locul celui nou. Funcționează doar pe versiuni mai vechi.";
+
+"SNACK_BAR" = "Dezactivează snackbar";
+"SNACK_BAR_DESC" = "Dezactivează snackbar-ul atunci când apeși butoane sau efectuezi acțiuni în aplicație.";

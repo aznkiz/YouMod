@@ -1,0 +1,36 @@
+"RESTART_BAR" = "Änderungen an diesen Einstellungen erfordern einen Neustart der App, um wirksam zu werden.";
+"ENABLED" = "Tweak aktivieren";
+"ENABLED_DESC" = "Wenn diese Option aktiviert ist, wird der Tweak aktiviert.";
+
+"ALLOWS_BACKGROUND_PLAYBACK" = "Hintergrundwiedergabe erlauben";
+"ALLOWS_BACKGROUND_PLAYBACK_DESC" = "Erlaubt YouTube, Videos im Hintergrund abzuspielen.";
+
+"VIDEO_ADS" = "Videoanzeigen entfernen";
+"VIDEO_ADS_DESC" = "Entfernt Videoanzeigen einschließlich Shorts.";
+
+"ENABLES_PIP" = "PiP aktivieren";
+"ENABLES_PIP_DESC" = "Aktiviert Bild-in-Bild (PiP), um Videos außerhalb der YouTube-App abzuspielen.";
+
+"DISABLES_SHORTS_PIP" = "Shorts-PiP deaktivieren";
+"DISABLES_SHORTS_PIP_DESC" = "Versucht, Shorts-PiP zu deaktivieren. Dies funktioniert möglicherweise nicht vollständig.";
+
+"BLOCK_UPGRADE_DIALOGS" = "Upgrade-Dialoge blockieren";
+"BLOCK_UPGRADE_DIALOGS_DESC" = "Blockiert YouTube-Dialoge, die Sie zum Aktualisieren der App auffordern.";
+
+"ARE_YOU_THERE_DIALOG" = "'Bist du noch da?'-Dialog ausblenden";
+"ARE_YOU_THERE_DIALOG_DESC" = "Blendet den Dialog aus, der bei längerer Inaktivität erscheint.";
+
+"HIDE_ADS_BADGES" = "Werbe-Badges ausblenden";
+"HIDE_ADS_BADGES_DESC" = "Blendet Werbe-Badges, YouTube-Premium-Werbung, versucht KI-Elemente auszublenden und mehr.";
+
+"HIDE_YOUTUBE_EDU" = "YouTube-Einführungen ausblenden (Experimentell)";
+"HIDE_YOUTUBE_EDU_DESC" = "Versucht YouTube-Einführungen auszublenden, wenn die App neu installiert wird oder Funktionen erstmals genutzt werden.";
+
+"FIXES_SLOW_MINIPLAYER" = "Langsamen Miniplayer beheben";
+"FIXES_SLOW_MINIPLAYER_DESC" = "Behebt langsames Erweitern des Miniplayers. Funktioniert nur bei älteren YouTube-Versionen.";
+
+"DISABLES_NEW_MINIPLAYER" = "Neuen Miniplayer deaktivieren";
+"DISABLES_NEW_MINIPLAYER_DESC" = "Verwendet den alten Miniplayer statt des neuen. Funktioniert nur bei älteren YouTube-Versionen.";
+
+"SNACK_BAR" = "Snackbar deaktivieren";
+"SNACK_BAR_DESC" = "Deaktiviert die Snackbar beim Drücken bestimmter Schaltflächen oder bei Aktionen in der App.";

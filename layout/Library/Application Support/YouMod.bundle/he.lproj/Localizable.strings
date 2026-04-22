@@ -1,0 +1,36 @@
+"RESTART_BAR" = "שינויים בהגדרות אלו דורשים הפעלה מחדש של האפליקציה כדי להיכנס לתוקף.";
+"ENABLED" = "הפעלת tweak";
+"ENABLED_DESC" = "הפעלת אפשרות זו תפעיל את ה-tweak.";
+
+"ALLOWS_BACKGROUND_PLAYBACK" = "אפשר ניגון ברקע";
+"ALLOWS_BACKGROUND_PLAYBACK_DESC" = "מאפשר ל-YouTube לנגן סרטונים ברקע.";
+
+"VIDEO_ADS" = "הסר פרסומות וידאו";
+"VIDEO_ADS_DESC" = "מסיר פרסומות וידאו כולל Shorts.";
+
+"ENABLES_PIP" = "הפעל PiP";
+"ENABLES_PIP_DESC" = "מפעיל מצב Picture-in-Picture לניגון וידאו מחוץ לאפליקציית YouTube.";
+
+"DISABLES_SHORTS_PIP" = "בטל PiP של Shorts";
+"DISABLES_SHORTS_PIP_DESC" = "מנסה לבטל PiP של Shorts, ייתכן שלא יושבת לחלוטין.";
+
+"BLOCK_UPGRADE_DIALOGS" = "חסום חלונות שדרוג";
+"BLOCK_UPGRADE_DIALOGS_DESC" = "חוסם חלונות של YouTube שמבקשים לעדכן את האפליקציה.";
+
+"ARE_YOU_THERE_DIALOG" = "הסתר חלון 'אתה עדיין שם?'";
+"ARE_YOU_THERE_DIALOG_DESC" = "מסתיר את החלון שמופיע לאחר חוסר פעילות ממושך.";
+
+"HIDE_ADS_BADGES" = "הסתר תגי פרסומות";
+"HIDE_ADS_BADGES_DESC" = "מסתיר תגי פרסומות, מבצעי YouTube Premium ומנסה להסתיר רכיבי AI.";
+
+"HIDE_YOUTUBE_EDU" = "הסתר מדריכי YouTube (ניסיוני)";
+"HIDE_YOUTUBE_EDU_DESC" = "מנסה להסתיר מדריכי YouTube בעת התקנה מחדש או שימוש ראשון.";
+
+"FIXES_SLOW_MINIPLAYER" = "תקן miniplayer איטי";
+"FIXES_SLOW_MINIPLAYER_DESC" = "מתקן הרחבה איטית של ה-miniplayer. עובד רק בגרסאות ישנות.";
+
+"DISABLES_NEW_MINIPLAYER" = "בטל miniplayer חדש";
+"DISABLES_NEW_MINIPLAYER_DESC" = "משתמש ב-miniplayer הישן במקום החדש. עובד רק בגרסאות ישנות.";
+
+"SNACK_BAR" = "בטל snackbar";
+"SNACK_BAR_DESC" = "מבטל את ה-snackbar בעת לחיצה על כפתורים או פעולות באפליקציה.";

@@ -1,0 +1,36 @@
+"RESTART_BAR" = "A beállítások módosításai csak az alkalmazás újraindítása után lépnek érvénybe.";
+"ENABLED" = "Tweak engedélyezése";
+"ENABLED_DESC" = "Ennek az opciónak a bekapcsolása aktiválja a tweaket.";
+
+"ALLOWS_BACKGROUND_PLAYBACK" = "Háttérlejátszás engedélyezése";
+"ALLOWS_BACKGROUND_PLAYBACK_DESC" = "Lehetővé teszi, hogy a YouTube videókat játsszon le a háttérben.";
+
+"VIDEO_ADS" = "Videóhirdetések eltávolítása";
+"VIDEO_ADS_DESC" = "Eltávolítja a videóhirdetéseket, beleértve a Shorts videókat is.";
+
+"ENABLES_PIP" = "PiP engedélyezése";
+"ENABLES_PIP_DESC" = "Engedélyezi a Kép a képben (PiP) módot, hogy a videók a YouTube alkalmazáson kívül is lejátszhatók legyenek.";
+
+"DISABLES_SHORTS_PIP" = "Shorts PiP letiltása";
+"DISABLES_SHORTS_PIP_DESC" = "Megpróbálja letiltani a Shorts PiP módot. Előfordulhat, hogy nem működik teljesen.";
+
+"BLOCK_UPGRADE_DIALOGS" = "Frissítési párbeszédablakok blokkolása";
+"BLOCK_UPGRADE_DIALOGS_DESC" = "Blokkolja a YouTube frissítésre felszólító párbeszédablakait.";
+
+"ARE_YOU_THERE_DIALOG" = "'Még itt vagy?' párbeszédablak elrejtése";
+"ARE_YOU_THERE_DIALOG_DESC" = "Elrejti a hosszú inaktivitás után megjelenő párbeszédablakot.";
+
+"HIDE_ADS_BADGES" = "Hirdetési jelvények elrejtése";
+"HIDE_ADS_BADGES_DESC" = "Elrejti a hirdetési jelvényeket, YouTube Premium promóciókat, valamint megpróbálja elrejteni az AI elemeket.";
+
+"HIDE_YOUTUBE_EDU" = "YouTube oktatások elrejtése (Kísérleti)";
+"HIDE_YOUTUBE_EDU_DESC" = "Megpróbálja elrejteni a YouTube oktató jelzéseket újratelepítéskor vagy első használatkor.";
+
+"FIXES_SLOW_MINIPLAYER" = "Lassú miniplayer javítása";
+"FIXES_SLOW_MINIPLAYER_DESC" = "Javítja a miniplayer lassú kibővítését. Csak régebbi YouTube verziókon működik.";
+
+"DISABLES_NEW_MINIPLAYER" = "Új miniplayer letiltása";
+"DISABLES_NEW_MINIPLAYER_DESC" = "A régi miniplayer használata az új helyett. Csak régebbi YouTube verziókon működik.";
+
+"SNACK_BAR" = "Snackbar letiltása";
+"SNACK_BAR_DESC" = "Letiltja a snackbart gombok megnyomásakor vagy műveletek végrehajtásakor az alkalmazásban.";

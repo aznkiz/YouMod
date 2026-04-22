@@ -1,0 +1,36 @@
+"RESTART_BAR" = "Ändringar i dessa inställningar kräver att appen startas om för att träda i kraft.";
+"ENABLED" = "Aktivera tweak";
+"ENABLED_DESC" = "Att slå på detta alternativ aktiverar tweaken.";
+
+"ALLOWS_BACKGROUND_PLAYBACK" = "Tillåt bakgrundsuppspelning";
+"ALLOWS_BACKGROUND_PLAYBACK_DESC" = "Tillåter YouTube att spela upp videor i bakgrunden.";
+
+"VIDEO_ADS" = "Ta bort videoreklam";
+"VIDEO_ADS_DESC" = "Tar bort videoreklam inklusive Shorts.";
+
+"ENABLES_PIP" = "Aktivera PiP";
+"ENABLES_PIP_DESC" = "Aktiverar Bild-i-bild (PiP) för att spela upp videor utanför YouTube-appen.";
+
+"DISABLES_SHORTS_PIP" = "Inaktivera Shorts PiP";
+"DISABLES_SHORTS_PIP_DESC" = "Försöker inaktivera Shorts PiP, det kanske inte fungerar helt.";
+
+"BLOCK_UPGRADE_DIALOGS" = "Blockera uppgraderingsdialoger";
+"BLOCK_UPGRADE_DIALOGS_DESC" = "Blockerar YouTube-dialoger som ber dig uppgradera appen.";
+
+"ARE_YOU_THERE_DIALOG" = "Dölj dialogen 'Är du kvar?'";
+"ARE_YOU_THERE_DIALOG_DESC" = "Döljer dialogen när du varit inaktiv i appen för länge.";
+
+"HIDE_ADS_BADGES" = "Dölj reklammärken";
+"HIDE_ADS_BADGES_DESC" = "Döljer reklammärken, YouTube Premium-kampanjer, försöker dölja AI-funktioner och mer.";
+
+"HIDE_YOUTUBE_EDU" = "Dölj YouTube-guider (Experimentellt)";
+"HIDE_YOUTUBE_EDU_DESC" = "Försöker dölja YouTube-guider när du installerar om appen eller använder funktioner första gången.";
+
+"FIXES_SLOW_MINIPLAYER" = "Åtgärda långsam miniplayer";
+"FIXES_SLOW_MINIPLAYER_DESC" = "Åtgärdar långsam expansion av miniplayern. Fungerar endast i äldre YouTube-versioner.";
+
+"DISABLES_NEW_MINIPLAYER" = "Inaktivera ny miniplayer";
+"DISABLES_NEW_MINIPLAYER_DESC" = "Använder den gamla miniplayern istället för den nya. Fungerar endast i äldre YouTube-versioner.";
+
+"SNACK_BAR" = "Inaktivera snackbar";
+"SNACK_BAR_DESC" = "Inaktiverar snackbar när knappar trycks eller åtgärder görs i appen.";

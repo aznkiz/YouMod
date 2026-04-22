@@ -1,0 +1,36 @@
+"RESTART_BAR" = "Wijzigingen in deze instellingen vereisen dat de app opnieuw wordt gestart om effect te hebben.";
+"ENABLED" = "Tweak inschakelen";
+"ENABLED_DESC" = "Het inschakelen van deze optie activeert de tweak.";
+
+"ALLOWS_BACKGROUND_PLAYBACK" = "Achtergrondweergave toestaan";
+"ALLOWS_BACKGROUND_PLAYBACK_DESC" = "Hiermee kan YouTube video's op de achtergrond afspelen.";
+
+"VIDEO_ADS" = "Videoadvertenties verwijderen";
+"VIDEO_ADS_DESC" = "Verwijdert videoadvertenties inclusief Shorts.";
+
+"ENABLES_PIP" = "PiP inschakelen";
+"ENABLES_PIP_DESC" = "Schakelt Picture-in-Picture (PiP) in om video's buiten de YouTube-app af te spelen.";
+
+"DISABLES_SHORTS_PIP" = "Shorts PiP uitschakelen";
+"DISABLES_SHORTS_PIP_DESC" = "Probeert Shorts PiP uit te schakelen. Mogelijk werkt dit niet volledig.";
+
+"BLOCK_UPGRADE_DIALOGS" = "Upgradevensters blokkeren";
+"BLOCK_UPGRADE_DIALOGS_DESC" = "Blokkeert YouTube-vensters die vragen om de app te upgraden.";
+
+"ARE_YOU_THERE_DIALOG" = "Dialoog 'Ben je er nog?' verbergen";
+"ARE_YOU_THERE_DIALOG_DESC" = "Verbergt de dialoog wanneer je te lang inactief bent.";
+
+"HIDE_ADS_BADGES" = "Advertentiebadges verbergen";
+"HIDE_ADS_BADGES_DESC" = "Verbergt advertentiebadges, YouTube Premium-promoties, probeert AI-elementen te verbergen en meer.";
+
+"HIDE_YOUTUBE_EDU" = "YouTube-uitleg verbergen (Experimenteel)";
+"HIDE_YOUTUBE_EDU_DESC" = "Probeert YouTube-uitleg te verbergen bij herinstallatie of eerste gebruik.";
+
+"FIXES_SLOW_MINIPLAYER" = "Trage miniplayer repareren";
+"FIXES_SLOW_MINIPLAYER_DESC" = "Repareert het langzaam uitbreiden van de miniplayer. Werkt alleen op oudere versies.";
+
+"DISABLES_NEW_MINIPLAYER" = "Nieuwe miniplayer uitschakelen";
+"DISABLES_NEW_MINIPLAYER_DESC" = "Gebruikt de oude miniplayer in plaats van de nieuwe. Werkt alleen op oudere versies.";
+
+"SNACK_BAR" = "Snackbar uitschakelen";
+"SNACK_BAR_DESC" = "Schakelt de snackbar uit wanneer knoppen worden ingedrukt of acties worden uitgevoerd.";

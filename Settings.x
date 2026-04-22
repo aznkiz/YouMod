@@ -170,6 +170,7 @@ NSBundle *YouModBundle() {
         settingItemId:0];
     [sectionItems addObject:hideytlogo];
 
+    /*
     // Center YT logo
     YTSettingsSectionItem *centerytlogo = [YTSettingsSectionItemClass switchItemWithTitle:LOC(@"CENTER_YT_LOGO")
         titleDescription:LOC(@"CENTER_YT_LOGO_DESC") // Set center logo
@@ -181,6 +182,7 @@ NSBundle *YouModBundle() {
         }
         settingItemId:0];
     [sectionItems addObject:centerytlogo];
+    */
 
     // YT Premium logo
     YTSettingsSectionItem *ytpremium = [YTSettingsSectionItemClass switchItemWithTitle:LOC(@"PREMIUM_LOGO")
@@ -253,6 +255,18 @@ NSBundle *YouModBundle() {
         }];
     [sectionItems addObject:feed];
 
+    // Hide Subbar
+    YTSettingsSectionItem *hidesubbar = [YTSettingsSectionItemClass switchItemWithTitle:LOC(@"HIDE_SUBBAR")
+        titleDescription:LOC(@"HIDE_SUBBAR_DESC") // Hide from the feed
+        accessibilityIdentifier:nil
+        switchOn:IS_ENABLED(HideSubbar)
+        switchBlock:^BOOL (YTSettingsCell *cell, BOOL enabled) {
+            [[NSUserDefaults standardUserDefaults] setBool:enabled forKey:HideSubbar];
+            return YES;
+        }
+        settingItemId:0];
+    [sectionItems addObject:hidesubbar];
+
     // Hide Mix Playlists
     YTSettingsSectionItem *hidemixplaylists = [YTSettingsSectionItemClass switchItemWithTitle:LOC(@"HIDE_MIX_PLAYLISTS")
         titleDescription:LOC(@"HIDE_MIX_PLAYLISTS_DESC") // Hide from the feed
@@ -300,18 +314,6 @@ NSBundle *YouModBundle() {
         }
         settingItemId:0];
     [sectionItems addObject:hideshortsself];
-
-    // Hide Subbar
-    YTSettingsSectionItem *hidesubbar = [YTSettingsSectionItemClass switchItemWithTitle:LOC(@"HIDE_SUBBAR")
-        titleDescription:LOC(@"HIDE_SUBBAR_DESC") // Hide from the feed
-        accessibilityIdentifier:nil
-        switchOn:IS_ENABLED(HideSubbar)
-        switchBlock:^BOOL (YTSettingsCell *cell, BOOL enabled) {
-            [[NSUserDefaults standardUserDefaults] setBool:enabled forKey:HideSubbar];
-            return YES;
-        }
-        settingItemId:0];
-    [sectionItems addObject:hidesubbar];
 
     // Section 3
     // Player
