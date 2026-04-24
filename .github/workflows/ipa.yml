@@ -38,12 +38,6 @@ on:
         required: false
         type: boolean
 
-      ytshare:
-        description: "Integrate youtube-native-share"
-        default: true
-        required: false
-        type: boolean
-
       # volboost:
       #   description: "Integrate VolumeBoostYT (Require iOS 16+)"
       #   default: true
@@ -357,14 +351,6 @@ jobs:
           cd YTClassicVideoQuality
           make clean package DEBUG=0 FINALPACKAGE=1 THEOS_PACKAGE_SCHEME=rootless
           mv packages/*.deb ${{ github.workspace }}/ytclassic.deb
-
-      - name: Build youtube-native-share
-        if: ${{ inputs.ytshare }}
-        run: |
-          cd youtube-native-share
-          git clone --quiet --depth=1 https://github.com/protocolbuffers/protobuf.git
-          make clean package DEBUG=0 FINALPACKAGE=1 THEOS_PACKAGE_SCHEME=rootless ARCHS=arm64
-          mv packages/*.deb ${{ github.workspace }}/ytnativeshare.deb
 
       # - name: Build VolumeBoostYT
       #   if: ${{ inputs.volboost }}
