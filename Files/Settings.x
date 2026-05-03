@@ -183,7 +183,7 @@ static NSString *GetCacheSize() { // YTLite - @dayanch96
         NSArray <YTSettingsSectionItem *> *rows = @[
             SETTINGS_HEADER,
             BASIC_SWITCH(LOC(@"OLED_THEME"), LOC(@"OLED_THEME_DESC"), OLEDTheme),
-            BASIC_SWITCH(LOC(@"OLED_KEYBOARD_DESC"), LOC(@"OLED_KEYBOARD_DESC"), OLEDKeyboard),
+            BASIC_SWITCH(LOC(@"OLED_KEYBOARD"), LOC(@"OLED_KEYBOARD_DESC"), OLEDKeyboard),
         ];        
         YTSettingsPickerViewController *picker = [[%c(YTSettingsPickerViewController) alloc] initWithNavTitle:LOC(@"APPEARANCE") pickerSectionTitle:nil rows:rows selectedItemIndex:0 parentResponder:[self parentResponder]];
         [settingsViewController pushViewController:picker];
